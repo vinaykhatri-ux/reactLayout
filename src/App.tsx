@@ -25,7 +25,7 @@ import Typeform from "./layout/Typeform/Typeform";
 function App() {
   return (
     <>
-      <Typeform />
+      <Calendar />
     </>
   );
 }
